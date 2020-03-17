@@ -11,8 +11,8 @@ const about = () => {
         <Head title="About" />
         <h1>About Myself</h1>
         <p>
-          My name is Joris. I am a full-stack developper and a salsa dancer. I
-          love learning new things and teaching them afterwards.
+          My name is the Boss. I am a full-stack developper and a salsa dancer.
+          I love learning new things and teaching them afterwards.
         </p>
         <Link to="/contact">Contact me</Link>
       </Layout>
