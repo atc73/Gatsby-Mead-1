@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "Fast Full-Stack Gatsby Website!",
-    author: "Joris Sellam",
+    author: "John",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
